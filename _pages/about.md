@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About
-----
+
 I am a final year electrical engineering undergraduate at IIT Delhi, interested in machine learning, neuroscience and speech. 
 
 Currently, I am a research intern at the [Senseable Intelligence Group](https://sensein.group/) at MIT. I work with Professor Satrajit Ghosh on speech emotion recognition. I am also a research assistant at the [Complex Systems and Neural Dynamics Lab](https://web.iitd.ac.in/~gsaurabhr/) at IIT Delhi, where I work with Professor Saurabh Gandhi on neuron classification.
