@@ -3,6 +3,7 @@ permalink: /
 title: About
 border: none
 box-shadow: none
+text-decoration: none
 excerpt: "About"
 author_profile: true
 redirect_from: 
