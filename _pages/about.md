@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+a {text-decoration:none;}
 
 I am a final year electrical engineering undergraduate at IIT Delhi, interested in machine learning, neuroscience and speech. 
 
