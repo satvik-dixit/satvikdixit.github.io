@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: About me
-excerpt: "About me"
+title: About
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 I am a final year electrical engineering undergraduate at IIT Delhi, interested in machine learning, neuroscience and speech. 
 
