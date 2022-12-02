@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item 3"
-excerpt: "Short 3<br/><img src='/images/500x300.png'>"
+title: "Audio Room Simulation"
+excerpt: "Adding directivities to microphones and sources <br/><img src='/images/pyroomacoustics.png'>"
 collection: portfolio
 ---
-
-3
+Pyroomacoustics: a python package to simulate audio using Image Source Modelling (ISM). 
