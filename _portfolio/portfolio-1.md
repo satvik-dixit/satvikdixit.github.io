@@ -16,5 +16,5 @@ The goal in speech emotion recognition is to identify the emotional state of the
 
  In this project, we benchmarked the performance of handcrafted features and data-driven features across multilingual datasets.
 
-[[Slides](https://docs.google.com/presentation/d/1lF714Nn_kKOj0aTPF_HhfZ07S-eFGnogpKLFGIvv8xM/edit?usp=sharing)]<br>
+[[Slides](https://docs.google.com/presentation/d/1lF714Nn_kKOj0aTPF_HhfZ07S-eFGnogpKLFGIvv8xM/edit?usp=sharing)]
 [[Code](https://github.com/satvik-dixit/speech_emotion_recognition)]
