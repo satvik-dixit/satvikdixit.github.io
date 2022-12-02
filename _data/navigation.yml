@@ -4,3 +4,5 @@ main:
   - title: "CV"
     url: /files/CV.docx.pdf
  
+   - title: "Portfolio"
+    url: /portfolio/
