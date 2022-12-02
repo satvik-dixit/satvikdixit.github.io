@@ -1,6 +1,6 @@
 ---
 title: "Neuronal Classification"
-excerpt: "Classification of neurons on the basis of electrophysiological features <br>[<a href='https://docs.google.com/presentation/d/1beUagTxJ9YBdfreq9tf1UZpPaBkTLPtluPwEv62SfX4/edit?usp=sharing'>Slides</a>]<br/><img src='/images/neuron.png'>"
+excerpt: "Classification of neurons on the basis of electrophysiological features <br>[<a href='https://drive.google.com/drive/u/0/my-drive'>Report</a>]<br/><img src='/images/neuron.png'>"
 
 collection: portfolio
 ---
@@ -11,4 +11,4 @@ We are trying to get a fine-grained classification of brain cells on the basis o
 1. Peak-channel waveform based metrics like  amplitude, duration and spread
 2. Firing pattern based metrics such as the firing rate, inter-spike intervals and burst frequency
 
-[<a href='https://docs.google.com/presentation/d/1beUagTxJ9YBdfreq9tf1UZpPaBkTLPtluPwEv62SfX4/edit?usp=sharing'>Slides</a>]
+[<a href='https://drive.google.com/drive/u/0/my-drive'>Report</a>]
