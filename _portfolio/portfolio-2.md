@@ -1,10 +1,9 @@
 ---
-title: "Classification of neurons on the basis of electrophysiological features"
-excerpt: "Bachelor Thesis Project <br>[<a href='https://docs.google.com/presentation/d/1beUagTxJ9YBdfreq9tf1UZpPaBkTLPtluPwEv62SfX4/edit?usp=sharing'>Slides</a>]<br/><img src='/images/neuron.png'>"
+title: "Neuronal Classification"
+excerpt: "Classification of neurons on the basis of electrophysiological features <br>[<a href='https://docs.google.com/presentation/d/1beUagTxJ9YBdfreq9tf1UZpPaBkTLPtluPwEv62SfX4/edit?usp=sharing'>Slides</a>]<br/><img src='/images/neuron.png'>"
 
 collection: portfolio
 ---
-Classification of neurons based on electrophysiological features
 Bachelor Thesis at Complex Systems and Neural Dynamics Lab, IIT Delhi <br>
 Advisor: Professor Saurabh Gandhi
 
